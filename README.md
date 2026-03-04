@@ -10,7 +10,7 @@ I am driven by a curiosity to understand how things truly work. I've been using 
 
 ### 🔭 Focus, Interests & Projects 🚀
 
-- 🎨 **Design & Branding:** Co-founder and Designer at **Mayo Studio**, managing visual identity and social media.
+- 🎨 **Design & Branding:** Co-founder and Designer at **Mayo Studio**, managing visual identity, social media and low-code functions.
 - 🤖 **Intelligent Agents & AI:** Focused on autonomous systems and rational decision-making.
 - 💻 **Foundations:** Algorithm development and deeply understanding the machine.
 - 🏀 **Hobbies:** Movies, basketball, games.
