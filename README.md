@@ -22,10 +22,10 @@ When I'm not writing code or studying math, you can probably find me working on 
 ### 📫 Contact
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/felipe-gonçalves-vidal-0b84b7280/" target="_blank">
+  <a href="https://www.linkedin.com/in/vvvvvdal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:felipegoncalvid12@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vvvvvdal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
@@ -38,6 +38,8 @@ When I'm not writing code or studying math, you can probably find me working on 
 <br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
 
 **Systems, Tools & Environments**
 <br>
