@@ -14,8 +14,6 @@ When I'm not writing code or studying math, you can probably find me working on 
 
 - 🤖 **Robotics Trainee @ Pequi Mecânico Robotics Nucleus (UFG):** Working on Pluginbot Project, partnership with CEIA (INF - UFG) and the company Pluginbot. Getting hands-on experience with mobile robots (like the Turtlebot). We use computer vision for autonomous route mapping, running on ROS, Docker, and Linux environments.
 - 🎨 **Co-founder & Dev @ Mayo Studio:** Blending my passions for design and game development. I handle the visual identity and implement game mechanics using Construct 3.
-- 🏛️ **Member of Events Direction @ DrACo (INF - UFG):** Organizing events, tech initiatives, and extension projects to engage the computer science academic community.
-- 👨‍🏫 **Teaching Assistant:** Helping retired professors learn about AI, digital literacy, and technology in everyday life.
 
 ---
 
