@@ -12,7 +12,7 @@ When I'm not writing code or studying math, you can probably find me working on 
 
 ### 🔭 What I'm currently up to
 
-- 🤖 **Robotics Trainee @ Pequi Mecânico Robotics Nucleus (UFG):** Working on Pluginbot Project, partnership with CEIA and the company Pluginbot. Getting hands-on experience with mobile robots (like the Turtlebot). We use computer vision for autonomous route mapping, running on ROS, Docker, and Linux environments.
+- 🤖 **Robotics Trainee @ Pequi Mecânico Robotics Nucleus (UFG):** Working on Pluginbot Project, partnership with CEIA and the company Pluginbot. Getting hands-on experience with TurtleBot4. We use computer vision for autonomous route mapping, running on ROS, Docker, and Linux environments.
 - 🎨 **Co-founder & Dev @ Mayo Studio:** Blending my passions for design and game development. I handle the visual identity and implement game mechanics using Construct 3.
 
 ---
