@@ -4,27 +4,27 @@
 
 **🎓 Computer Science Undergraduate** at the Federal University of Goiás **(UFG)**.
 
-Focused on **Software Engineering, Robotics, Computer Vision, and Artificial Intelligence**. I build solutions ranging from autonomous route mapping for robots to AI-powered search agents, with a strong interest in low-level programming and system optimization.
+Focused on **Mobile Robotics and Computer Vision**. I build solutions ranging from autonomous route mapping for robots to AI-powered inspection agents, with a strong interest in transforming theoretical knowledge into practical software engineering applications for AI.
 
 ---
 
 ### 🔭 What I'm currently up to
 
-- **Robotics Trainee @ Pequi Mecânico (UFG):** Working on the Pluginbot Project in partnership with CEIA and Pluginbot. Getting hands-on experience operating TurtleBot4 and using computer vision for autonomous route mapping in ROS2, Docker, and Linux environments.
-- **Extension Project:** Monitor at ADUFG, teaching practical AI and digital literacy.
-- **Co-founder @ Mayo Studio**: Contributing to game development and visual identity.
+- **Robotics Trainee @ Pequi Mecânico (UFG):** Working on the Pluginbot Project in partnership with CEIA and Pluginbot. Developing solutions for autonomous robots using **Python, OpenCV, YOLO, ROS2, and Docker**.
+- **Extension Project (Inclusão Digital 60+):** Monitor at ADUFG, teaching practical digital literacy and AI to retired UFG professors, translating complex tech concepts for a non-specialized audience.
+- **Co-founder & Developer @ Mayo Studio**: Game development using Construct 3 (event-driven/low-code). Projects were selected for exhibition at Campus Party Goiás 2024 and Go Game Festival 2025, reaching an engagement of over 300 people.
 
 ---
 
 ### 💻 Featured Projects
 
-**[TurtleBot4 Pequi (Robotics & Computer Vision)](https://github.com/vvvvvdal/turtlebot4-pequi):**
-Worked on the software architecture and autonomous navigation system for an upgraded iRobot Create 3 base for TurtleBot4. Built a GPU-accelerated Docker environment using **ROS 2 Humble, Nav2, and SLAM** for environment mapping. Integrated **YOLOv8** for real-time human detection, implementing a priority-based safety override (`twist_mux`) to autonomously prevent collisions. 
-*Tech: TurtleBot4, ROS 2 Humble, Docker, Linux, YOLOv8n, Python, SLAM, Nav2.*
+**[Pluginbot - TurtleBot4: Autonomous Inspection Agent](https://github.com/vvvvvdal/pluginbot-turtlebot4):**
+Built an autonomous inspection agent integrating computer vision and artificial intelligence for real-time decision-making. Developed a pipeline with **OpenCV** for object detection and integrated a local LLM (**Ollama**) for autonomous processing. The solution was unified with mapping (**SLAM**) and navigation (**Nav2**) modules, validated in simulation using Gazebo.
+*Tech: Python, ROS2 Humble, Nav2, SLAM, OpenCV, Ollama, Gazebo, RViz2, Docker, TurtleBot4.*
 
-**[RAG Search Agent (ANEEL Dataset)](https://github.com/AyuHamano/rag-search-agent):**
-Co-developed an AI-powered search agent to efficiently query Brazilian energy regulations. Built the interactive conversational frontend using Streamlit and developed the LLM inference pipeline utilizing the Google Gemini API. Implemented strict system prompt engineering and context-structuring mechanisms to minimize legal hallucinations and ensure source-grounded responses.
-*Tech: Python, Streamlit, Google Gemini API, Prompt Engineering, LLM Inference.*
+**[TurtleBot4 Pequi (Robotics & Computer Vision)](https://github.com/vvvvvdal/turtlebot4-pequi):**
+Built a simulation and control environment for the TurtleBot4. Developed a computer vision solution using **YOLOv8** for human detection, triggering automatic stops or retreats at critical distances. Participated in integrating the mapping (**SLAM**), navigation (**Nav2**), and movement modules.
+*Tech: Python, ROS2 Humble, Nav2, SLAM, YOLOv8n, Gazebo, RViz2, Docker.*
 
 ---
 
@@ -33,8 +33,9 @@ Co-developed an AI-powered search agent to efficiently query Brazilian energy re
 **Robotics & AI**
 <br>
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
 <img src="https://img.shields.io/badge/SLAM-FF5722?style=for-the-badge" alt="SLAM" />
 <img src="https://img.shields.io/badge/Nav2-4CAF50?style=for-the-badge" alt="Nav2" />
 
@@ -51,6 +52,8 @@ Co-developed an AI-powered search agent to efficiently query Brazilian energy re
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Gazebo-FFB13B?style=for-the-badge&logo=gazebo&logoColor=black" alt="Gazebo" />
+<img src="https://img.shields.io/badge/RViz2-E34F26?style=for-the-badge&logo=3D&logoColor=white" alt="RViz2" />
 
 **Design & Creative**
 <br>
