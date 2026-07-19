@@ -10,7 +10,7 @@ Focused on **Mobile Robotics and Computer Vision**. I build solutions ranging fr
 
 ### 🔭 What I'm currently up to
 
-- **Robotics Trainee @ Pequi Mecânico (UFG):** Working on the Pluginbot Project in partnership with CEIA and Pluginbot. Developing solutions for autonomous robots using **Python, OpenCV, YOLO, ROS2, and Docker**.
+- **Robotics Trainee @ Pequi Mecânico (UFG):** Working on the Pluginbot Project in partnership with CEIA and Pluginbot. Developing solutions for TurtleBot4 using **Python, OpenCV, YOLO, ROS2, and Docker**.
 - **Extension Project (Inclusão Digital 60+):** Monitor at ADUFG, teaching practical digital literacy and AI to retired UFG professors, translating complex tech concepts for a non-specialized audience.
 - **Co-founder & Developer @ Mayo Studio**: Game development using Construct 3 (event-driven/low-code). Projects were selected for exhibition at Campus Party Goiás 2024 and Go Game Festival 2025, reaching an engagement of over 300 people.
 
