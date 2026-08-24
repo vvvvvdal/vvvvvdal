@@ -4,46 +4,55 @@
 
 **🎓 Computer Science Undergraduate** at the Federal University of Goiás **(UFG)**.
 
-Focused on **Mobile Robotics and Computer Vision**. I build solutions ranging from autonomous route mapping for robots to AI-powered inspection agents, with a strong interest in transforming theoretical knowledge into practical software engineering applications for AI.
+Focused on **Artificial Intelligence, Computer Vision, and Robotics**. I enjoy understanding technology from its theoretical foundations and turning that knowledge into practical applications through software engineering and applied AI.
 
 ---
 
 ### 🔭 What I'm currently up to
 
-- **Robotics Trainee @ Pequi Mecânico (UFG):** Working on the Pluginbot Project in partnership with CEIA and Pluginbot. Developing solutions for TurtleBot4 using **Python, OpenCV, YOLO, ROS2, and Docker**.
-- **Extension Project (Inclusão Digital 60+):** Monitor at ADUFG, teaching practical digital literacy and AI to retired UFG professors, translating complex tech concepts for a non-specialized audience.
-- **Co-founder & Developer @ Mayo Studio**: Game development using Construct 3 (event-driven/low-code). Projects were selected for exhibition at Campus Party Goiás 2024 and Go Game Festival 2025, reaching an engagement of over 300 people.
+- **AI Researcher @ CEIA:** Participating in the **2026/2027 Professional Development Program (PDC)**, in partnership with EMBRAPII. Working with **Small Language Models (SLMs) in Portuguese**, model evaluation, data processing, and optimization for efficient local execution.
+- **Robotics Trainee @ Pequi Mecânico (UFG):** Developing autonomous robotics solutions using **Python, ROS2, OpenCV, YOLO, and Docker**, with a focus on perception, navigation, and AI integration. Previously worked on the Pluginbot Project, in partnership with CEIA and Pluginbot.
 
 ---
 
 ### 💻 Featured Projects
 
-**[Pluginbot - TurtleBot4: Autonomous Inspection Agent](https://github.com/vvvvvdal/pluginbot-turtlebot4):**
-Built an autonomous inspection agent integrating computer vision and artificial intelligence for real-time decision-making. Developed a pipeline with **OpenCV** for object detection and integrated a local LLM (**Ollama**) for autonomous processing. The solution was unified with mapping (**SLAM**) and navigation (**Nav2**) modules, validated in simulation using Gazebo.
+**[Pluginbot - TurtleBot4: Autonomous Inspection Agent](https://github.com/vvvvvdal/pluginbot-turtlebot4):**  
+Developed an autonomous inspection agent for the TurtleBot4 combining **computer vision and artificial intelligence** for real-time perception and decision-making. Built an **OpenCV-based vision pipeline** for object detection and integrated a locally deployed LLM through **Ollama** for autonomous processing. The system was integrated with the robot's mapping (**SLAM**) and navigation (**Nav2**) stack and validated in Gazebo simulation.
+
 *Tech: Python, ROS2 Humble, Nav2, SLAM, OpenCV, Ollama, Gazebo, RViz2, Docker, TurtleBot4.*
 
-**[TurtleBot4 Pequi (Robotics & Computer Vision)](https://github.com/vvvvvdal/turtlebot4-pequi):**
-Built a simulation and control environment for the TurtleBot4. Developed a computer vision solution using **YOLOv8** for human detection, triggering automatic stops or retreats at critical distances. Participated in integrating the mapping (**SLAM**), navigation (**Nav2**), and movement modules.
+**[TurtleBot4 Pequi (Robotics & Computer Vision)](https://github.com/vvvvvdal/turtlebot4-pequi):**  
+Worked as part of the software team on the development of a simulation and control environment for the TurtleBot4. Implemented a **YOLOv8-based computer vision safety system** for real-time human detection, enabling the robot to automatically stop or retreat when a person entered a critical distance. Contributed to the integration of perception with mapping (**SLAM**), navigation (**Nav2**), and robot motion modules.
+
 *Tech: Python, ROS2 Humble, Nav2, SLAM, YOLOv8n, Gazebo, RViz2, Docker.*
 
 ---
 
 ### 🛠️ Skills & Tools
 
-**Robotics & AI**
+**Artificial Intelligence & Computer Vision**
+<br>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Small%20Language%20Models-4B32C3?style=for-the-badge" alt="Small Language Models" />
+<img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge" alt="NLP" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+
+**Robotics**
 <br>
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
-<img src="https://img.shields.io/badge/SLAM-FF5722?style=for-the-badge" alt="SLAM" />
 <img src="https://img.shields.io/badge/Nav2-4CAF50?style=for-the-badge" alt="Nav2" />
+<img src="https://img.shields.io/badge/SLAM-FF5722?style=for-the-badge" alt="SLAM" />
+<img src="https://img.shields.io/badge/TurtleBot4-333333?style=for-the-badge" alt="TurtleBot4" />
 
 **Programming**
 <br>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 
 **Systems, Tools & Environments**
 <br>
@@ -63,8 +72,8 @@ Built a simulation and control environment for the TurtleBot4. Developed a compu
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/Portuguese-Native-green?style=flat-square" />
-<img src="https://img.shields.io/badge/English-Advanced-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Portuguese-Native-green?style=flat-square" alt="Portuguese" />
+<img src="https://img.shields.io/badge/English-Advanced-blue?style=flat-square" alt="English" />
 
 ---
 
@@ -82,5 +91,5 @@ Built a simulation and control environment for the TurtleBot4. Developed a compu
 <br>
 
 <div align="center">
-  <h3><i>"SAPERE AUDE!"</i> 👨‍💻</h3>
+  <h3><i>"SAPERE AUDE!"</i></h3>
 </div>
